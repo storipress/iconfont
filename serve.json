@@ -1,0 +1,7 @@
+{
+  "public": "iconfont",
+  "rewrites": [
+    { "source": "/", "destination": "demo.html" },
+    { "source": "/index.html", "destination": "demo.html" }
+  ]
+}
